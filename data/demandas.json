@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1751482402,
+        "titulo": "Teste",
+        "descricao": "abc",
+        "autor_id": 1,
+        "responsavel_id": 2,
+        "suporte_id": null,
+        "data": "2025-07-02 15:53:22",
+        "finalizada": false,
+        "avaliada_por_denilson": false
+    },
+    {
+        "id": 1751718146,
+        "titulo": "Solicita\u00e7\u00e3o de Suporte para Acesso ao E-mail",
+        "descricao": "Bom dia,\r\nEstou com dificuldade para acessar o e-mail estoque350@atacadao.com.br, sendo exibida a mensagem: \"N\u00e3o foi poss\u00edvel acessar\".\r\n\r\nSolicito, por gentileza, o reset da senha para que possamos retomar o acesso.\r\n\r\nFico no aguardo.\r\nAtenciosamente,\r\n\r\nTicket#: 2025070585001567\r\nEstado: Novo\r\nPrioridade: 3 M\u00e9dia",
+        "autor_id": 4,
+        "responsavel_id": 4,
+        "suporte_id": 1,
+        "data": "2025-07-05 09:22:26",
+        "finalizada": true,
+        "avaliada_por_denilson": true,
+        "data_finalizacao": "2025-07-21 13:23:45"
+    },
+    {
+        "id": 1751732497,
+        "titulo": "45",
+        "descricao": "45",
+        "autor_id": 4,
+        "responsavel_id": 4,
+        "suporte_id": null,
+        "data": "2025-07-05 13:21:37",
+        "finalizada": true,
+        "avaliada_por_denilson": true,
+        "data_finalizacao": "2025-07-21 13:28:06"
+    },
+    {
+        "id": 1751732795,
+        "titulo": "2",
+        "descricao": "3",
+        "autor_id": 1,
+        "responsavel_id": 4,
+        "suporte_id": null,
+        "data": "2025-07-05 13:26:35",
+        "finalizada": true,
+        "avaliada_por_denilson": true,
+        "data_finalizacao": "2025-07-21 13:28:10"
+    },
+    {
+        "id": 1753114977,
+        "titulo": "LIMPEZA BALAN\u00c7A DE PDV ",
+        "descricao": "PDV\u00b4S: 1, 4, 7, 10, 13, 16 e 19.\r\n",
+        "autor_id": 1,
+        "responsavel_id": 4,
+        "suporte_id": null,
+        "data": "2025-07-21 13:22:57",
+        "finalizada": false,
+        "avaliada_por_denilson": false
+    },
+    {
+        "id": 1753115034,
+        "titulo": "LIMPEZA BALAN\u00c7A DE PDV",
+        "descricao": "PDV\u00b4S: 2, 5, 8, 11, 14, 17, e 20.",
+        "autor_id": 1,
+        "responsavel_id": 1,
+        "suporte_id": null,
+        "data": "2025-07-21 13:23:54",
+        "finalizada": true,
+        "avaliada_por_denilson": true,
+        "data_finalizacao": "2025-07-23 09:00:32"
+    },
+    {
+        "id": 1753115121,
+        "titulo": "LIMPEZA BALAN\u00c7A DE PDV",
+        "descricao": "PDV\u00b4S: 3, 6, 9, 12, 15, 18 e 21.",
+        "autor_id": 1,
+        "responsavel_id": 3,
+        "suporte_id": null,
+        "data": "2025-07-21 13:25:21",
+        "finalizada": true,
+        "avaliada_por_denilson": false,
+        "data_finalizacao": "2025-07-25 14:38:10"
+    },
+    {
+        "id": 1753522202,
+        "titulo": "Teste",
+        "descricao": "123",
+        "autor_id": 1,
+        "responsavel_id": 1,
+        "suporte_id": null,
+        "data": "2025-07-26 06:30:02",
+        "finalizada": true,
+        "avaliada_por_denilson": false,
+        "data_finalizacao": "2025-07-26 06:30:33"
+    }
+]
